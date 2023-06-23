@@ -1,0 +1,32 @@
+A:\Информационные папки\Шаг\C#\FrameWork\WPFExam\5The15FormWpf\bin\Debug\5The15FormWpf.exe.config
+A:\Информационные папки\Шаг\C#\FrameWork\WPFExam\5The15FormWpf\bin\Debug\5The15FormWpf.exe
+A:\Информационные папки\Шаг\C#\FrameWork\WPFExam\5The15FormWpf\bin\Debug\5The15FormWpf.pdb
+A:\Информационные папки\Шаг\C#\FrameWork\WPFExam\5The15FormWpf\obj\Debug\5The15FormWpf.csproj.AssemblyReference.cache
+A:\Информационные папки\Шаг\C#\FrameWork\WPFExam\5The15FormWpf\obj\Debug\5The15FormWpf.csproj.SuggestedBindingRedirects.cache
+A:\Информационные папки\Шаг\C#\FrameWork\WPFExam\5The15FormWpf\obj\Debug\MainWindow.g.cs
+A:\Информационные папки\Шаг\C#\FrameWork\WPFExam\5The15FormWpf\obj\Debug\App.g.cs
+A:\Информационные папки\Шаг\C#\FrameWork\WPFExam\5The15FormWpf\obj\Debug\5The15FormWpf_MarkupCompile.cache
+A:\Информационные папки\Шаг\C#\FrameWork\WPFExam\5The15FormWpf\obj\Debug\5The15FormWpf_MarkupCompile.lref
+A:\Информационные папки\Шаг\C#\FrameWork\WPFExam\5The15FormWpf\obj\Debug\MainWindow.baml
+A:\Информационные папки\Шаг\C#\FrameWork\WPFExam\5The15FormWpf\obj\Debug\5The15FormWpf.g.resources
+A:\Информационные папки\Шаг\C#\FrameWork\WPFExam\5The15FormWpf\obj\Debug\_5The15FormWpf.Properties.Resources.resources
+A:\Информационные папки\Шаг\C#\FrameWork\WPFExam\5The15FormWpf\obj\Debug\5The15FormWpf.csproj.GenerateResource.cache
+A:\Информационные папки\Шаг\C#\FrameWork\WPFExam\5The15FormWpf\obj\Debug\5The15FormWpf.csproj.CoreCompileInputs.cache
+A:\Информационные папки\Шаг\C#\FrameWork\WPFExam\5The15FormWpf\obj\Debug\5The15FormWpf.exe
+A:\Информационные папки\Шаг\C#\FrameWork\WPFExam\5The15FormWpf\obj\Debug\5The15FormWpf.pdb
+C:\Users\user\Desktop\WPFExam\5The15FormWpf\bin\Debug\5The15FormWpf.exe.config
+C:\Users\user\Desktop\WPFExam\5The15FormWpf\bin\Debug\5The15FormWpf.exe
+C:\Users\user\Desktop\WPFExam\5The15FormWpf\bin\Debug\5The15FormWpf.pdb
+C:\Users\user\Desktop\WPFExam\5The15FormWpf\obj\Debug\5The15FormWpf.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WPFExam\5The15FormWpf\obj\Debug\5The15FormWpf.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\WPFExam\5The15FormWpf\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\WPFExam\5The15FormWpf\obj\Debug\App.g.cs
+C:\Users\user\Desktop\WPFExam\5The15FormWpf\obj\Debug\5The15FormWpf_MarkupCompile.cache
+C:\Users\user\Desktop\WPFExam\5The15FormWpf\obj\Debug\5The15FormWpf_MarkupCompile.lref
+C:\Users\user\Desktop\WPFExam\5The15FormWpf\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\WPFExam\5The15FormWpf\obj\Debug\5The15FormWpf.g.resources
+C:\Users\user\Desktop\WPFExam\5The15FormWpf\obj\Debug\_5The15FormWpf.Properties.Resources.resources
+C:\Users\user\Desktop\WPFExam\5The15FormWpf\obj\Debug\5The15FormWpf.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WPFExam\5The15FormWpf\obj\Debug\5The15FormWpf.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WPFExam\5The15FormWpf\obj\Debug\5The15FormWpf.exe
+C:\Users\user\Desktop\WPFExam\5The15FormWpf\obj\Debug\5The15FormWpf.pdb
